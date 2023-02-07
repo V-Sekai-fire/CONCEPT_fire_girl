@@ -1,0 +1,20 @@
+{
+  "prompt": "vrchat 3d avatar, a (((female))) tk-char in an orange dress, a 3D render, by senior character artist, simple dress, playful and cheerful, she has black hair with bangs",
+  "negative_prompt": "(((signature))), (((text))), (((watermarks))), deformed eyes, close up, ((disfigured)), ((bad art)), ((deformed)), ((extra limbs)), (((duplicate))), ((morbid)), ((mutilated)), out of frame, extra fingers, mutated hands, poorly drawn eyes, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), cloned face, body out of frame, out of frame, bad anatomy, gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), (fused fingers), (too many fingers), (((long neck))), tiling, poorly drawn, mutated, cross-eye, canvas frame, frame, cartoon, 3d, weird colors, blurry",
+  "seed": 9025071,
+  "width": 512,
+  "height": 768,
+  "num_outputs": 4,
+  "num_inference_steps": 150,
+  "guidance_scale": 7.5,
+  "prompt_strength": 0.8,
+  "sampler_name": "ddim",
+  "hypernetwork_strength": 0,
+  "preserve_init_image_color_profile": true,
+  "use_stable_diffusion_model": "C:\\stable-diffusion-ui\\models\\stable-diffusion\\hAs3DKX11_3dkx11.safetensors",
+  "use_vae_model": "C:\\stable-diffusion-ui\\models\\vae\\vae-ft-mse-840000-ema-pruned.ckpt",
+  "use_hypernetwork_model": null,
+  "use_face_correction": "C:\\stable-diffusion-ui\\models\\gfpgan\\GFPGANv1.3.pth",
+  "use_upscale": "C:\\stable-diffusion-ui\\models\\realesrgan\\RealESRGAN_x4plus_anime_6B.pth",
+  "upscale_amount": 4
+}
